@@ -1,4 +1,3 @@
-AnjoCaido-Launcher
 MinecraftSP
 ==================
 
